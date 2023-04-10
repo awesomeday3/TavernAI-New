@@ -969,6 +969,7 @@ input {
     padding: 4px;
 	background-color: rgb(25, 25, 25);
     border-radius: 20px;
+    color: #e5e0d8;
 }
 #dialogue_popup_ok{
     padding: 10px 15px 10px 15px;
@@ -1452,6 +1453,7 @@ label.checkbox :checked + span:after {
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
+    color: #e5e0d8;
 }
 #character_popup h5{
     margin-top: 0px;
@@ -1494,6 +1496,7 @@ label.checkbox :checked + span:after {
     height: 100%;
     margin-top: 0px;
     border-radius: 10px;
+    color: #e5e0d8;
 }
 
 #character_popup_ok{
@@ -1604,10 +1607,12 @@ label.checkbox :checked + span:after {
 
 .select_chat_block_filename{
     opacity:0.5;
+    color: #e5e0d8;
 }
 .select_chat_block_mes{
     margin-right: 6px;
 	font-size:0.75rem;
+	color: #e5e0d8;
 }
 
 .select_chat_block .avatar {
@@ -1654,6 +1659,7 @@ label.checkbox :checked + span:after {
     display: inline-block;
     margin-top: 20px;
     margin-left: 45px;
+    color: #e5e0d8;
 }
 
 #export_character_div{

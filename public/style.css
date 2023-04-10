@@ -1334,6 +1334,7 @@ input[type="range"] {
     box-shadow: none;
 	background-color: rgb(34, 34, 34);
     border-radius: 10px;
+    color: #e5e0d8;
 }
 
 #your_name{

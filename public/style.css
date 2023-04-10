@@ -8,7 +8,6 @@
 
 body {
     margin: 0;
-   
     background-color: rgb(10, 10, 10);
     background-size: auto 100%;
     background-repeat: no-repeat;
@@ -53,7 +52,7 @@ code {
   word-wrap: break-word;
 }
 
-/* 
+/*
 #bg1{
     //background-image: linear-gradient(rgba(19,21,44,0.75), rgba(19,21,44,0.75)), url(backgrounds/tavern.png);
     background: url(backgrounds/tavern.png);
@@ -315,7 +314,7 @@ code {
 
 
 .mes_block{
-    
+
     padding-top: 0px;
     padding-left: 20px;
 }
